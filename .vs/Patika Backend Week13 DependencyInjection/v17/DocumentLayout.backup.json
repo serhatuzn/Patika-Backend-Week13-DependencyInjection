@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Patika Backend Week13 DependencyInjection\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC08A52-D0E3-4A02-B6C1-842307F415F1}|DependencyInjectionConsoleApp\\DependencyInjectionConsoleApp.csproj|c:\\users\\user\\desktop\\patika backend week13 dependencyinjection\\dependencyinjectionconsoleapp\\classroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FC08A52-D0E3-4A02-B6C1-842307F415F1}|DependencyInjectionConsoleApp\\DependencyInjectionConsoleApp.csproj|solutionrelative:dependencyinjectionconsoleapp\\classroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC08A52-D0E3-4A02-B6C1-842307F415F1}|DependencyInjectionConsoleApp\\DependencyInjectionConsoleApp.csproj|c:\\users\\user\\desktop\\patika backend week13 dependencyinjection\\dependencyinjectionconsoleapp\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FC08A52-D0E3-4A02-B6C1-842307F415F1}|DependencyInjectionConsoleApp\\DependencyInjectionConsoleApp.csproj|solutionrelative:dependencyinjectionconsoleapp\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC08A52-D0E3-4A02-B6C1-842307F415F1}|DependencyInjectionConsoleApp\\DependencyInjectionConsoleApp.csproj|c:\\users\\user\\desktop\\patika backend week13 dependencyinjection\\dependencyinjectionconsoleapp\\iteacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FC08A52-D0E3-4A02-B6C1-842307F415F1}|DependencyInjectionConsoleApp\\DependencyInjectionConsoleApp.csproj|solutionrelative:dependencyinjectionconsoleapp\\iteacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC08A52-D0E3-4A02-B6C1-842307F415F1}|DependencyInjectionConsoleApp\\DependencyInjectionConsoleApp.csproj|c:\\users\\user\\desktop\\patika backend week13 dependencyinjection\\dependencyinjectionconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FC08A52-D0E3-4A02-B6C1-842307F415F1}|DependencyInjectionConsoleApp\\DependencyInjectionConsoleApp.csproj|solutionrelative:dependencyinjectionconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ITeacher.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Patika Backend Week13 DependencyInjection\\DependencyInjectionConsoleApp\\ITeacher.cs",
+              "RelativeDocumentMoniker": "DependencyInjectionConsoleApp\\ITeacher.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Patika Backend Week13 DependencyInjection\\DependencyInjectionConsoleApp\\ITeacher.cs",
+              "RelativeToolTip": "DependencyInjectionConsoleApp\\ITeacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T00:09:21.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Patika Backend Week13 DependencyInjection\\DependencyInjectionConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "DependencyInjectionConsoleApp\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Patika Backend Week13 DependencyInjection\\DependencyInjectionConsoleApp\\Program.cs",
+              "RelativeToolTip": "DependencyInjectionConsoleApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T00:06:42.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Patika Backend Week13 DependencyInjection\\DependencyInjectionConsoleApp\\Teacher.cs",
+              "RelativeDocumentMoniker": "DependencyInjectionConsoleApp\\Teacher.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Patika Backend Week13 DependencyInjection\\DependencyInjectionConsoleApp\\Teacher.cs",
+              "RelativeToolTip": "DependencyInjectionConsoleApp\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T00:06:18.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClassRoom.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Patika Backend Week13 DependencyInjection\\DependencyInjectionConsoleApp\\ClassRoom.cs",
+              "RelativeDocumentMoniker": "DependencyInjectionConsoleApp\\ClassRoom.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Patika Backend Week13 DependencyInjection\\DependencyInjectionConsoleApp\\ClassRoom.cs*",
+              "RelativeToolTip": "DependencyInjectionConsoleApp\\ClassRoom.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T00:05:55.976Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
