@@ -132,7 +132,3 @@ Projeye katkıda bulunmak için şu adımları izleyebilirsiniz:
 ## 📑 Lisans
 
 Bu proje, MIT Lisansı altında lisanslanmıştır. Daha fazla bilgi için [LICENSE](LICENSE) dosyasına göz atabilirsiniz.
-
----
-
-Projeye katkı sağlamak isterseniz, pull request gönderebilirsiniz! 😊
